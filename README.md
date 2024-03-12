@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm Rasec from Portugal<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning Java Script frameworks and Typescript<br>- In my free time I play games and work on small projects.</p>
+<p align="left">I'm Rasec from Portugal<br><br>- I’m a student<br>- I'm currently learning Java Script frameworks and Typescript<br>- In my free time I play games and work on small projects.</p>
 
 ###
 
