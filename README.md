@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="175" src="https://media.tenor.com/fjuXKOJa2r4AAAAd/mf-doom-bruh.gif"  />
-</div>
 
 ###
 
