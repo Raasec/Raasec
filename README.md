@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center">Hello! 👋</h1>
 
 ###
 
@@ -10,8 +10,8 @@
   I'm Rasec, a tech enthusiast from Portugal. Currently, I'm a student on a journey to expand my knowledge in web and software development. Here's a bit more about me:  
   <br><br>
   - 🌱 I’m learning currently learning JavaScript. <br> 
-  - 🎮 In my free time, I enjoy playing games such as Dark Souls.  <br> 
-  - 💡 I love building whatever comes to mind, from web tools to wacky creative experiments.  <br> 
+  - 🎮 In my free time, I enjoy playing games and listening to some music.  <br> 
+  - 💡 I love building whatever comes to mind, from web tools to some other creative experiments.  <br> 
   - 🚀 I'm exploring Python, C#, and creating projects for game communities, currently exploring the <a href="https://developer.hypixel.net/">Hypixel API</a>.
 </p>
 
@@ -59,5 +59,5 @@
 ###
 
 <p align="left">
-  I'm looking forward to enriching my skills and contributing to projects. I aim to build cool things for gaming communities, such as mods, tools, and other innovative ideas.
+  I'm looking forward to enriching my skills and contributing to projects. I aim to build interesting things for gaming communities, such as mods, tools, and other innovative ideas.
 </p>
